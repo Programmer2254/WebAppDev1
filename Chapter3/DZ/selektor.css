@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Denk One', sans-serif;
+}
+nav {
+	float: left;
+	background: darkgray;
+	color: green;
+	
+}
+main {
+	background: lightgray;
+}
+footer {
+	background: gray;
+}
+body {
+	font-size: 100%
+}
+main p {
+	font-size: larger;
+}
+nav p {font-size: 1.1em;
+}
